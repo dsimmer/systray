@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/energye/systray"
-	"github.com/energye/systray/icon"
+	"github.com/dsimmer/systray"
+	"github.com/dsimmer/systray/icon"
 	"time"
 )
 
