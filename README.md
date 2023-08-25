@@ -1,3 +1,6 @@
+Fork:
+This fork changes the Appdelegate name to avoid a clash with wails
+
 # Systray
 
 systray is a cross-platform Go library to place an icon and menu in the notification area.
